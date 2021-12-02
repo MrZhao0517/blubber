@@ -1,4 +1,4 @@
-module service.blubber.utils
+module github.com/whale-clouds/service.blubber.utils
 
 go 1.17
 
